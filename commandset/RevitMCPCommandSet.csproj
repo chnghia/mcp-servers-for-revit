@@ -62,6 +62,13 @@
     </ItemGroup>
 
     <ItemGroup>
+        <Reference Include="LibraryModule">
+            <HintPath>D:\Source\AconsEngineer\LibraryModule\bin\$(Configuration)\LibraryModule.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
       <Reference Include="System.Net.Http" />
     </ItemGroup>
 
