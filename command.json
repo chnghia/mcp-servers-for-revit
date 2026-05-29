@@ -122,6 +122,11 @@
       "commandName": "create_dimensions",
       "description": "Create dimension annotations between elements or points in the current view",
       "assemblyPath": "RevitMCPCommandSet.dll"
+    },
+    {
+      "commandName": "get_beam_id_by_grid",
+      "description": "Lấy Element ID của các dầm chạy dọc theo một lưới trục chỉ định",
+      "assemblyPath": "RevitMCPCommandSet.dll"
     }
   ]
 }
