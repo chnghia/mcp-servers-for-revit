@@ -127,6 +127,11 @@
       "commandName": "get_beam_id_by_grid",
       "description": "Lấy Element ID của các dầm chạy dọc theo một lưới trục chỉ định",
       "assemblyPath": "RevitMCPCommandSet.dll"
+    },
+    {
+      "commandName": "delete_beam_rebar",
+      "description": "Xóa cốt thép dầm và cột dựa trên Element ID",
+      "assemblyPath": "RevitMCPCommandSet.dll"
     }
   ]
 }
